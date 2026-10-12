@@ -4,7 +4,7 @@
 
 | 类型 | 链接 |
 |------|------|
-| 官方入口 | [疾风云官网 jfqz1.net](https://ml.jfqz1.net/?code=N5BK) |
+| 官方入口 | [疾风云官网 jfqz1.net](https://jfynez01.net/?code=N5BK) |
 | 备用入口A | [jif9.net 官方地址](https://homes.jif9.net/?code=N5BK) |
 | 备用入口B | [j134.net 备用地址](https://j134.net/?code=N5BK) |
 
